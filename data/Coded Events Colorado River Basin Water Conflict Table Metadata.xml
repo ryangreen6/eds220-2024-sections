@@ -1,0 +1,1268 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Diamond V. Holloman</origin>
+        <origin>Megan K. Hines</origin>
+        <origin>Dionne K. Zoanni</origin>
+        <pubdate>20230817</pubdate>
+        <title>Coded Water Conflict and Crisis Events in the Colorado River Basin, Derived from LexisNexis search 2005-2021</title>
+        <geoform>spreadsheet</geoform>
+        <onlink>https://doi.org/10.5066/P9X6WR7J</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The data in this data release are from an effort focused on understanding social vulnerability to water insecurity, resiliency demonstrated by institutions, and conflict or crisis around water resource management. This data release focuses on the conflict in crisis aspects of work. To characterize crisis a dual-prong, qualitative triangulation was used to identify and provide context for water conflict and other water-related events in the Colorado River Basin. The first prong was observation by research team members of nine public, recorded meetings of water control boards and official organizations in the Colorado River Basin. Discourse analysis was then used to identify major themes in these meetings, and integrated into data from the second prong of this project. The second prong was a search, cataloguing, and contextualization of articles from newspapers describing water-related events in geographic areas in the Basin based on methods established by Dr. Nathan Eidem. USGS applied this methodology to a new time period of data to extend the work. This kind of approach has value for examining Crisis on a continual basis toward identification of hotspots from conflict, identifying primary stakeholders, and who experiences Crises. This resulting dataset catalogues events in the Colorado River Basin (particularly the Upper Colorado River Basin in most cases) from 2005 - 2021. This table extends the the Upper Colorado Events Database which catalogues simiar events from 1970 - 2005. Events are defined as any interaction between parties that is action-defined, recorded, and made available to the public. The criteria for inclusion we used for the LexisNexis search is as follows: each event must be driven by some aspect or dimension of freshwater resources and occur within the study area. Each event is described comprehensively and coded with themes that correspond to themes from the first prong to provide proof of each themes contribution to conflict in the Basin (see Colorado River Basin Water Conflict Table).  Given resource constraints some events were not fully coded but are included in the Uncoded Events table as a resource to other researchers in the future.</abstract>
+      <purpose>The data were collected to catalogue and understand water-related conflicts in the Colorado River Basin.  This benefits the growing human dimension research that USGS Water Mission Area is conducting and may be a source of background information to the water availability assessment reports which USGS is producing as a series of reports over the next few years.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20050101</begdate>
+          <enddate>20211231</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-119.35547</westbc>
+        <eastbc>-103.71094</eastbc>
+        <northbc>31.65338</northbc>
+        <southbc>41.77131</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>society</themekey>
+        <themekey>inlandWaters</themekey>
+      </theme>
+      <theme>
+        <themekt>Thesaurus</themekt>
+        <themekey>Conflict</themekey>
+        <themekey>Crisis</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>decision support methods</themekey>
+        <themekey>social science</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:63acac09d34e92aad3ca1480</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Colorado River Basin</placekey>
+      </place>
+    </keywords>
+    <accconst>None.  Please see 'Distribution Info' for details.</accconst>
+    <useconst>None.  Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jennifer Rapp</cntper>
+        </cntperp>
+        <cntaddr>
+          <addrtype>email</addrtype>
+          <address>jrapp@usgs.gov</address>
+          <city>Richmond</city>
+          <state>VA</state>
+          <postal>23228</postal>
+        </cntaddr>
+        <cntvoice>804-261-2635</cntvoice>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted. Quality of data was ensured through procedural consistency amongst team members.</attraccr>
+    </attracc>
+    <logic>No formal logical consistency tests were conducted.</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Data represents occurrences only with the Colorado River Basin.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Amy Bilyeau, Librarian, Department of Interior, amy_bilyeau@ios.doi.gov; and George D. Franchois, Library Director, george_franchois@ios.doi.gov</origin>
+            <pubdate>20220601</pubdate>
+            <title>Newspaper articles pulled from LexisNexis, 631 results</title>
+            <geoform>Newspaper article text, Word Documents</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>20050101</begdate>
+              <enddate>20211231</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>LexisNexis - 631 articles</srccitea>
+        <srccontr>Provided articles for textual analysis</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Eidem, 2008</origin>
+            <pubdate>2008</pubdate>
+            <title>Eidem, N. 2008. The Western Water Institutional Solutions-Western Water Information
+Network Collaboration: An Analysis of the Social, Economic, and Biophysical Environments Supportive of and the Historic Trends in Conflict and Cooperation in the Bureau of Reclamation's Upper Colorado Region 1970-2005. Reclamation: Managing Water in the West.</title>
+            <geoform>Article, PDF</geoform>
+            <onlink>https://transboundarywaters.science.oregonstate.edu/sites/transboundarywaters.science.oregonstate.edu/files/Publications/Eidem_2008_USBR.pdf</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1970</begdate>
+              <enddate>2005</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Water Conflict Issue Types</srccitea>
+        <srccontr>Provided categories applied to events during textual analysis</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Eidem, 2012</origin>
+            <pubdate>2012</pubdate>
+            <title>Eidem, N. 2012. Enhancing Social-Ecological Resilience in the Colorado River Basin.</title>
+            <geoform>Article, PDF</geoform>
+            <onlink>https://transboundarywaters.science.oregonstate.edu/sites/transboundarywaters.science.oregonstate.edu/files/Publications/Eidem_2008_USBR.pdfhttps://transboundarywaters.science.oregonstate.edu/sites/transboundarywaters.science.oregonstate.edu/files/Publications/Eidem_Final.pdf</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1970</begdate>
+              <enddate>2005</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Water Conflict Intensity Scale</srccitea>
+        <srccontr>Provided intensity scale and references to researched applied to events during textual analysis</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Western Water Institutional Solutions Project</origin>
+            <pubdate>2012</pubdate>
+            <title>Eidem, N. 2012. Enhancing Social-Ecological Resilience in the Colorado River Basin.</title>
+            <geoform>Dataset, XLSX</geoform>
+            <onlink>https://transboundarywaters.science.oregonstate.edu/content/collection-research-and-datasets-colorado-river-basin</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1970</begdate>
+              <enddate>2005</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>The Upper Colorado Events Database</srccitea>
+        <srccontr>The UC Events Database (https://transboundarywaters.science.oregonstate.edu/sites/transboundarywaters.science.oregonstate.edu/files/Database/ResearchProjects/Colorado/Final_WWIS_UC_Event_Database.xls) provided stakeholder categories to researchers and were applied to events during textual analysis</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Articles for this work were pulled from LexisNexis using the following search criteria: Rio Grande River and Pecos River and Colorado River and Gunnison River and San Juan River and Sevier River and Green River and Animas River and La Plata River and Great Salt Lake OR water OR river! OR dam OR stream OR tributary OR irrigation OR channel OR reservoir AND quality OR flood! OR drought! OR rights AND treaty or agree or negotiate or partner or settle or cooperate or collaborate or dispute or conflict or disagree or war or protest. After collecting the resulting 631 articles, members of this research team read 269 articles, and utilizing corresponding themes, provided context and further coded articles based on their content.</procdesc>
+        <procdate>20221122</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Colorado River Basin Water Conflict Table.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing contextualization of articles.</enttypd>
+        <enttypds>U.S. Geological Survey</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Event</attrlabl>
+        <attrdef>Unique ID number for each event</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <udom>Unique ID number for each event</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Search Source</attrlabl>
+        <attrdef>The original text file that holds the full article text</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>USGS1-50.docx</edomv>
+            <edomvd>File titled "USGS1-50"</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>USGS101-150.docx</edomv>
+            <edomvd>File titled "USGS101-150"</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>USGS151-200.docx</edomv>
+            <edomvd>File titled "USGS151-200"</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>USGS201-250.docx</edomv>
+            <edomvd>File titled "USGS201-250"</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>USGS251-300.docx</edomv>
+            <edomvd>File titled "USGS251-300"</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>USGS301-350.docx</edomv>
+            <edomvd>File titled "USGS301-350"</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>USGS351-400.docx</edomv>
+            <edomvd>File titled "USGS351-400"</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>USGS401-450.docx</edomv>
+            <edomvd>File titled "USGS401-450"</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>USGS451-500.docx</edomv>
+            <edomvd>File titled "USGS451-500"</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>USGS501-550.docx</edomv>
+            <edomvd>File titled "USGS501-550"</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>USGS51-100.docx</edomv>
+            <edomvd>File titled "USGS51-100"</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>USGS551-600.docx</edomv>
+            <edomvd>File titled "USGS551-600"</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>USGS601-631.docx</edomv>
+            <edomvd>File titled "USGS601-631"</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Newspaper</attrlabl>
+        <attrdef>Name of the newspaper where the article was published</attrdef>
+        <attrdefs>Lexis Nexis</attrdefs>
+        <attrdomv>
+          <udom>Names of the newspapers</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Title</attrlabl>
+        <attrdef>The title of the article</attrdef>
+        <attrdefs>Lexis Nexis</attrdefs>
+        <attrdomv>
+          <udom>The title of the article</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Duplicate</attrlabl>
+        <attrdef>Whether or not this same article appears again in this dataset. The researchers left these included because they are syndications of the same content in several different newspapers and their appearance more than once captures significance of stories appearing in several locations throughout the geographic area.</attrdef>
+        <attrdefs>Lexis Nexis</attrdefs>
+        <attrdomv>
+          <udom>True or False</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Report Date</attrlabl>
+        <attrdef>Date the newspaper article was published</attrdef>
+        <attrdefs>Lexis Nexis</attrdefs>
+        <attrdomv>
+          <udom>Specific date or month the article was published</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Report Year</attrlabl>
+        <attrdef>Year the newspaper article was published</attrdef>
+        <attrdefs>Lexis Nexis</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2005</rdommin>
+            <rdommax>2022</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Event Date</attrlabl>
+        <attrdef>Date of the event described in the newspaper article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>The event date was not coded or could not be identified during coding.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom>Date of the event described in the newspaper article as captured by the researcher during coding. May be a range of dates if pertinent.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Event Day</attrlabl>
+        <attrdef>Day of the event described in the newspaper article. Coded from the Event Date contents.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>Day was not coded.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>31</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Event Month</attrlabl>
+        <attrdef>Month of the event described in the newspaper article. Coded from the Event Date contents.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>Month was not coded.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>12</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Event Year</attrlabl>
+        <attrdef>Year of the event described in the newspaper article. Coded from the Event Date contents.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>Year was not coded.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>1922</rdommin>
+            <rdommax>2023</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Conflict Present?</attrlabl>
+        <attrdef>Binary response to "Is a conflict present?" Conflict is defined here as an incompatibility of goals and various attempts of any present parties to control each other's choices. When the researchers reviewed the articles, they were looking for evidence of this behavior in the event explained.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>The event was not coded for conflict</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes, conflict evidence was observed.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No, conflict evidence was not observed.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Crisis Present?</attrlabl>
+        <attrdef>Binary response to "is a crisis present?" Crisis here is defined as a time of intense difficulty or danger. When the researchers reviewed the articles, they were looking for evidence of this behavior in the event explained.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>The event was not coded for crisis</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes, crisis in event was observed</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No, crisis in event was not observed</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Basin</attrlabl>
+        <attrdef>Smaller basins and watersheds where the event took place or was most directly felt. When the researchers reviewed the articles, they were looking for specific geographic locations for the events mentioned that can be intersected with a HUC6 watershed/basin. The researchers used an interactive map interface with several overlapping geospatial layers (HUC6 data layer, major cities layer, US Census urban areas layer) to locate and code the basin.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>Empty cell indicates a basin was not coded for this event. NA indicates a basin is not referenced in the event.</edomvd>
+            <edomvds>U.S. Geological Survey Watershed Boundary Dataset</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom>Names of the HUC6 basin within the Upper Colorado River Basin</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC6</attrlabl>
+        <attrdef>HUC6 watershed/basins where the event took place or impacted. Coded from Basin field.</attrdef>
+        <attrdefs>U.S. Geological Survey Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <udom>Unique ID number for each HUC6 basin mentioned in the article.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC2</attrlabl>
+        <attrdef>HUC2 watershed/basins where the event took place or impacted. Coded from Basin field.</attrdef>
+        <attrdefs>U.S. Geological Survey Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <udom>Unique ID number for each HUC2 basin mentioned in the article.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Place</attrlabl>
+        <attrdef>Where the event actually occurred, but also where the event's direct implications are felt most directly. When the researchers reviewed the articles, they were looking for mentions of specific places impacted by the events.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>Empty cell indicates a place was not coded for this event. NA indicates a place is not referenced in the event text.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom>Names of places described in the article</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>County</attrlabl>
+        <attrdef>County names coded from Place names.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>Empty cell indicates a county was not coded for this event or that the article was not coded.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>County FIPS</attrlabl>
+        <attrdef>County FIPS Code coded from Place names.</attrdef>
+        <attrdefs>NIST</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>Empty cell indicates a county was not coded for this event or that the article was not coded.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <codesetd>
+            <codesetn>FIPS Code (3-Digit County ID)</codesetn>
+            <codesets>NIST</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>State</attrlabl>
+        <attrdef>State Name coded from Place field.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>Empty cell indicates a state was not coded for this event or that the article was not coded.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>State FIPS</attrlabl>
+        <attrdef>State FIPS Code coded from Place field.</attrdef>
+        <attrdefs>NIST</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>Empty cell indicates a state was not coded for this event or that the article was not coded.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <codesetd>
+            <codesetn>FIPS Code (2-Digit State ID)</codesetn>
+            <codesets>NIST</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Urban or Rural</attrlabl>
+        <attrdef>Does this event impact an urban or rural space? The researchers consulted an interactive map containing several geospatial layers, including an urban area geospatial layer from the United States Census (published 2021) to determine if the Place(s) mentioned in the article are urban or rural or perhaps both if a larger area that includes both kinds of landscapes is referenced.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>An empty cell indicates that the event was not coded or categorized. NA indicates that it does not apply to this event.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Both</edomv>
+            <edomvd>Event pertains to both urban and rural areas</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Rural</edomv>
+            <edomvd>Event pertains to a rural area</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Urban</edomv>
+            <edomvd>Event pertains to an urban area</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Issue Type</attrlabl>
+        <attrdef>The type of event/issue, as defined by the US Western Water Institutional Solutions Project. Definitions of the issue types are based on US Western Water Institutional analysis, Eidem 2008.</attrdef>
+        <attrdomv>
+          <edom>
+            <edomv>Conservation</edomv>
+            <edomvd>Water conservation measures not fully implemented. Includes agriculture, municipal, industrial uses and conveyance methods, and water usage limitations.</edomvd>
+            <edomvds>US Western Water Institutional Solutions Project</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Drought</edomv>
+            <edomvd>Issue of water quantity and water supply. Past, current, or future drought implications on water supply.</edomvd>
+            <edomvds>US Western Water Institutional Solutions Project</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Fish passage</edomv>
+            <edomvd>Dam/hydropower facilities block fish passage or inhibit fish survival (but not in relation to water quality). Related actions include fish ladders, dam removal, and bypasses which may affect water supply.</edomvd>
+            <edomvds>US Western Water Institutional Solutions Project</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Flood</edomv>
+            <edomvd>Reservoir levels decreased for future storage. Implies loss of water for future use and bypassed electrical generation.</edomvd>
+            <edomvds>US Western Water Institutional Solutions Project</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Ground water depletion</edomv>
+            <edomvd>Withdrawing too much ground water too quickly thereby not allowing recharge of aquifer or other substantial water table lowering. Ground water use depletes surface water flows, or leads to land subsidence. Creation of new ground water supply source.</edomvd>
+            <edomvds>US Western Water Institutional Solutions Project</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Infrastructure issues</edomv>
+            <edomvd>Water conveyance, storage, or treatment non-existent, in disrepair, inadequate or not predicted to meet future needs due to agricultural or municipal/population growth. Creating, expanding, and repairing these systems. New surface water source development and public works project funding. Includes conjunctive storage of excess surface water in ground water cavities. Also include issues over storm water and flood protection.</edomvd>
+            <edomvds>US Western Water Institutional Solutions Project</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Instream water rights</edomv>
+            <edomvd>River flows/lake levels are too low to support threatened or endangered species due to high consumptive uses. Governmental institutions requiring higher instream flows, and other stakeholder groups obtaining/transferring water rights to instream uses. Includes water to comply with the Wild and Scenic Rivers Act.</edomvd>
+            <edomvds>US Western Water Institutional Solutions Project</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Intergovernmental issues</edomv>
+            <edomvd>Disputes over allocation of water among international, federal, state, local institutions, and other stakeholder groups and private citizens; including between Upper and Lower Colorado basins and other upstream/downstream entities. Includes allocations of diversions from federal projects (i.e. BOR reservoirs), allocation disputes from existing out of-basin transfers and citizen or stakeholder voting. Also includes jurisdictional and management issues.</edomvd>
+            <edomvds>US Western Water Institutional Solutions Project</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Water rights more generally</edomv>
+            <edomvd>Water right in dispute or in litigation and basin adjudication. Also includes halts on development without a required water right and other issues related to property rights. Includes Native American claims to water and reactions to their claims. Includes lease and sale of water rights for consumptive use.</edomvd>
+            <edomvds>US Western Water Institutional Solutions Project</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Water transfers</edomv>
+            <edomvd>Either local water will be transferred out of basin or an area basin relies on out of-basin water-- includes both givers and receivers of water. A stakeholder searching to create an out of-basin water supply or alter the amount of current out-of-basin supply. Involved stakeholders may refuse or agree to alter water quantity. (The dispute over the allocation of that water would be included in Intergovernmental. If the amount increases and there is a need or desire to increase storage it would be included in Infrastructure)</edomvd>
+            <edomvds>US Western Water Institutional Solutions Project</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Water quality</edomv>
+            <edomvd>Surface or ground water does not meet local, state or federal standards for municipal use or endangered species regulations or alteration of those standards. May be due to numerous activities including but not limited to: violation of NPDES permit, discharge of toxic or hazardous waste or salt water intrusion. Includes stakeholder concern over potential degradation of water quality due to any activity. Includes fluoride additions to municipal water supply.</edomvd>
+            <edomvds>US Western Water Institutional Solutions Project</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Event Summary</attrlabl>
+        <attrdef>A summary of the event captured by the researchers reviewing the article, as described in the article.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>The event was not coded by researchers.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom>A summary of the event</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Stakeholders</attrlabl>
+        <attrdef>The stake-holders mentioned in the article who were involved. These generalized stake-holder categories were applied to each article's event to classify stake-holders involved. Stake-holder categories came from a unique list of options available from the Eidem 2012, which were summarized from the published Excel file that corresponded with the Eidem 2012 dissertation, the Western Water Institutional Solutions Upper Colorado Conflict Event database.</attrdef>
+        <attrdefs>Eidem 2012 and WWIS UC Conflict Event database</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>The article was not coded for stake-holders.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom>The stake-holders mentioned in the article</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Intensity Value</attrlabl>
+        <attrdef>A measure of the intensity of the event. The more negative or positive a value, the more negative or positive the event. Intensity values range from intense conflict (-5) to intense cooperation (5). Researchers used the scale available and compared the event descriptions in the article to the scale options and selected the most appropriate value to reflect the level of intensity in the conflict/crises.</attrdef>
+        <attrdefs>Eidem 2012</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>The event was not coded or the event was not coded for event intensity</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-5</edomv>
+            <edomvd>Hostility: Included actions: Protests, personal threats, vandalism, private citizen shooting, and arrests. Police forces called out in small numbers (arrests) and violent instances involving private citizens causing injury, destruction, or death. Construction of water project against major stakeholders wishes on small (local) scale. Theme: Small scale acts of police force, violence, and threats</edomvd>
+            <edomvds>Eidem 2012</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-4</edomv>
+            <edomvd>Litigation: Included actions: filing and appeals, appeal of administrative actions or permit denials. Does NOT include judicial rulings. Dissolution of agency or management groups. Formal filing of protest of agreements, creation of opposition groups (needs two events: one conflictive and one cooperative). Theme: Judicial intervention or Management group dissolution.</edomvd>
+            <edomvds>Eidem 2012</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-3</edomv>
+            <edomvd>Dispute: Included actions: Halting negotiations, refusal to be involved 
+or to include other stakeholders in 
+negotiations or settlements. Regulatory 
+violations- illegal water withdrawals. 
+Regulatory enforcement actions, fines. 
+Permit application or proposal denials from 
+authorities. Expressed intent to litigate, 
+impose economic sanctions and other violent 
+threat. Theme: Cooperative group meltdown or authoritative regulatory action.</edomvd>
+            <edomvds>Eidem 2012</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-2</edomv>
+            <edomvd>Disagreement: Included actions: Official refusal of proposed settlements or negotiations, threat to halt negotiations. Negotiations may fail, but without a complete withdrawal from them. Withdrawal of third party support- governmental, monetary or figuratively, and petitions, bill blocking. Other request 
+denials. Theme: Roadblocks or temporary failure of settlement or project progress.</edomvd>
+            <edomvds>Eidem 2012</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-1</edomv>
+            <edomvd>Difference: Included actions: General statements of disapproval or 
+opposition including Op-Ed, fact contention, 
+report or findings review, preliminary 
+refusal of proposals or settlements and 
+warnings. Delay in negotiations or vote, and 
+stakeholder exclusion from input. Theme: Voicing opinions of opposition, but not in enough force to achieve project blockage.</edomvd>
+            <edomvds>Eidem 2012</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Neutral or Insignificant: Included actions: Indifferent statements, no comment 
+statements. Court ruling, court or congressional testimony, congressional 
+hearing, and fact clarification. Theme: Events have no major effect on party interactions. Does not decrease nor increase
+conflictive intensity of interaction.</edomvd>
+            <edomvds>Eidem 2012</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Similarity: Included actions: General statements of approval or 
+agreement including Op-Ed, fact agreement, 
+preliminary approval of proposals, actions 
+or bills. Inclusion of stakeholder input or 
+review, following voluntary guidelines, 
+court-mandated negotiations. 
+Announcements including project or 
+institution goals or policies and project 
+proposals, research, and calls for more 
+research. Theme: Voicing opinions of approval, but not with enough
+force to make major forward moves toward resolution.</edomvd>
+            <edomvds>Eidem 2012</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Agreement: Included actions: Acceptance of a preliminary proposal or
+settlement, calls for negotiation or mediation 
+sessions. Third party support such as 
+governmental or monetary assistance. 
+Apologizing for past actions, meetings that 
+are not for settlement or negotiations, 
+dropping project opposition. Information 
+release upon request, lawyer-recommended 
+settlement acceptance. Theme: Progress in stakeholder agreements
+and minor project support.</edomvd>
+            <edomvds>Eidem 2012</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Assent: Included actions: Agreeing to participate in and stakeholder
+inclusion in settlements and negotiations, 
+preliminary settlement and negotiation 
+agreement, resuming negotiations. Agreement to fix regulatory violations, basic water right and other permit approvals by an authoritative body. Creating forums. Preliminary settlement and negotiation 
+agreement (still need official approval). Theme: Preliminary
+agreement to settlement and regulatory compliance.</edomvd>
+            <edomvds>Eidem 2012</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Cooperative Management: Included actions: Out of court or negotiation agreement 
+reached, bill passage; transfer of 
+management-- including sales and leases. 
+Formation of management groups across 
+political lines, formation of advocacy 
+groups, cooperative projects for watershed 
+management, irrigation. Theme: Legally binding cooperation actions like regulation approval and lawsuit settlements</edomvd>
+            <edomvds>Eidem 2012</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Formal Agreement: Included actions: Compacts and official agreements signed or ratified between states, municipalities or nations. Formal signing of document, merger of private sector or unification of small scale (local) governmental body. small scale (local)(governmental body). Theme: Major Alliance: Compacts and management or authorities group unification.</edomvd>
+            <edomvds>Eidem 2012</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Comments</attrlabl>
+        <attrdef>Additional notes from the research team. These comments explain values, codes, and themes used for each event.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>No specific comments on this article or the article was not coded.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom>Additional notes from the research team. These comments explain values, codes, and themes used for each event.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Related Observation themes</attrlabl>
+        <attrdef>Themes were created during an early phase of the project based on conducted observations of public water board meetings. Here they are applied as they were also observed in the newspaper articles about conflict and crises.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>No related themes were applied or the article was not coded.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Lack of tribal representation</edomv>
+            <edomvd>Observed that no tribal representation was present in discussion of issues that impacted tribal issues.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Dishonoring the absent</edomv>
+            <edomvd>Observed continuation with discussions and negotiations even while acknowledging that important impacted groups are not at the table.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>N/A</edomv>
+            <edomvd>Not applicable/No related theme noted</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Positive state-board collaboration</edomv>
+            <edomvd>Observed beneficial collaboration between State and water control boards</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Scientific knowledge preferred</edomv>
+            <edomvd>Observed the preference of scientific knowledge used to make decisions and discuss issues and events.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Exclusionary procedural governance</edomv>
+            <edomvd>Observed exclusionary procedural governance wherein those who are unfamiliar with the procedures used would be unable to participate in the discussions and be involved.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Other knowledges not represented</edomv>
+            <edomvd>Observed that other types of knowledge not represented, as a corrolary to scientific knowledges preferred in discussions and decision-making.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Rigid procedural governance/behavior</edomv>
+            <edomvd>Observed rigid procedural governance/behavior that does not leave space for those unfamiliar with established and accepted processes to engage.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Shallow engagement strategies</edomv>
+            <edomvd>Observed shallow engagement strategies (such as a reference to a single email or letter sent to invite external voices) mentioned when attempting to bring outsiders into existing rigid procedural governance processes.</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Devaluing tribal land and resources</edomv>
+            <edomvd>Observed lack of shared values for tribal land and resources</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Inequitable government access/relationship</edomv>
+            <edomvd>Observed personal relationships or existing relationships as being necessary to engage with decisionmakers</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Weak state to tribal relationship</edomv>
+            <edomvd>Observed admitted lack of relationships between State officials and tribal groups mentioned</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Devaluing tribal values</edomv>
+            <edomvd>Observed lack of shared values with tribal values</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Lower level of participation</edomv>
+            <edomvd>Observed a lack of involvement</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Exclusionary processes</edomv>
+            <edomvd>Observed processes used that did not allow everyone to participate</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Exclusionary public comment</edomv>
+            <edomvd>Observed processes which did not include public comment</edomvd>
+            <edomvds>Dataset designer</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "water quality"</attrlabl>
+        <attrdef>Number of times "water quality" was mentioned in the article, as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>10</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "invasive species"</attrlabl>
+        <attrdef>Number of times "invasive species" was mentioned in the article, as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "conservation"</attrlabl>
+        <attrdef>Number of times "conservation" was mentioned in the article, as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>47</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "drought"</attrlabl>
+        <attrdef>Number of times "drought" was mentioned in the article, as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>26</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "flood"</attrlabl>
+        <attrdef>Number of times "flood" was mentioned in the article, as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>31</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "ground water depletion"</attrlabl>
+        <attrdef>Number of times "ground water depletion" was mentioned in the article, as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "depletion"</attrlabl>
+        <attrdef>Number of times "depletion" was mentioned in the article, as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>3</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "infrastructure"</attrlabl>
+        <attrdef>Number of times "infrastructure" was mentioned in the article, as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>9</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "fish passage"</attrlabl>
+        <attrdef>Number of times "fish passage" was mentioned in the article, as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "instream water rights", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "instream water rights" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "water rights", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "water rights" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>18</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "intergovernmental", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "intergovernmental" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "water transfers", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "water transfers" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>6</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "navigation", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "navigation" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "fish", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "fish" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>27</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "invasive", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "invasive" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "diversion", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "diversion" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>7</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "water diversion", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "water diversion" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "instream", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "instream" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>12</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "aquatic", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "aquatic" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>10</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>GS ScienceBase</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty. The use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9X6WR7J</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20230817</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jennifer Rapp</cntper>
+        </cntperp>
+        <cntaddr>
+          <addrtype>email</addrtype>
+          <address>jrapp@usgs.gov</address>
+          <city>Richmond</city>
+          <state>VA</state>
+          <postal>23228</postal>
+        </cntaddr>
+        <cntvoice>804-261-2635</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>

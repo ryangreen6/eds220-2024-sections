@@ -1,0 +1,540 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Diamond V. Holloman</origin>
+        <origin>Megan K. Hines</origin>
+        <origin>Dionne K. Zoanni</origin>
+        <pubdate>20230730</pubdate>
+        <title>Uncoded Water Conflict and Crisis Events in the Colorado River Basin, Derived from LexisNexis search 2005-2022</title>
+        <geoform>spreadsheet</geoform>
+        <onlink>https://doi.org/10.5066/P9X6WR7J</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract> The data in this data release are from an effort focused on understanding social vulnerability to water insecurity, resiliency demonstrated by institutions, and conflict or crisis around water resource management. This data release focuses on the conflict in crisis aspects of work. To characterize crisis a dual-prong, qualitative triangulation was used to identify and provide context for water conflict and other water-related events in the Colorado River Basin. The first prong was observation by research team members of nine public, recorded meetings of water control boards and official organizations in the Colorado River Basin. Discourse analysis was then used to identify major themes in these meetings, and integrated into data from the second prong of this project. The second prong was a search, cataloguing, and contextualization of articles from newspapers describing water-related events in geographic areas in the Basin based on methods established by Dr. Nathan Eidem. USGS applied this methodology to a new time period of data to extend the work. This kind of approach has value for examining Crisis on a continual basis toward identification of hotspots from conflict, identifying primary stakeholders, and who experiences Crises. This resulting dataset catalogues events in the Colorado River Basin (particularly the Upper Colorado River Basin in most cases) from 2005 - 2021. Events are defined as any interaction between parties that is action-defined, recorded, and made available to the public. The criteria for inclusion we used for the LexisNexis search is as follows: each event must be driven by some aspect or dimension of freshwater resources and occur within the study area. Each event is described comprehensively and coded with themes that correspond to themes from the first prong to provide proof of each themes contribution to conflict in the Basin (see Colorado River Basin Water Conflict Table).  Given resource constraints some events were not fully coded but are included in this Uncoded Events table as a resource to other researchers in the future.
+	  </abstract>
+      <purpose>The data were collected to catalogue and understand water-related conflicts in the Colorado River Basin.  This benefits the growing human dimension research that USGS Water Mission Area is conducting and may be a source of background information to the water availability assessment reports which USGS is producing as a series of reports over the next few years.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>2005</begdate>
+          <enddate>2022</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-119.35547</westbc>
+        <eastbc>-103.71094</eastbc>
+        <northbc>31.65338</northbc>
+        <southbc>41.77131</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>society</themekey>
+        <themekey>inlandWaters</themekey>
+      </theme>
+      <theme>
+        <themekt>Thesaurus</themekt>
+        <themekey>Conflict</themekey>
+        <themekey>Crisis</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>decision support methods</themekey>
+        <themekey>social science</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Colorado River Basin</placekey>
+      </place>
+    </keywords>
+    <accconst>None.  Please see 'Distribution Info' for details.</accconst>
+    <useconst>None.  Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jennifer Rapp</cntper>
+        </cntperp>
+        <cntaddr>
+          <addrtype>email</addrtype>
+          <address>jrapp@usgs.gov</address>
+          <city>Richmond</city>
+          <state>VA</state>
+          <postal>23228</postal>
+        </cntaddr>
+        <cntvoice>804-261-2635</cntvoice>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted. Quality of data was ensured through procedural consistency amongst team members.</attraccr>
+    </attracc>
+    <logic>No formal logical consistency tests were conducted.</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Data represents occurrences only with the Colorado River Basin. </complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Amy Bilyeau, Librarian, Department of Interior, amy_bilyeau@ios.doi.gov; and George D. Franchois, Library Director, george_franchois@ios.doi.gov</origin>
+            <pubdate>20220601</pubdate>
+            <title>Newspaper articles pulled from LexisNexis, 631 results</title>
+            <geoform>Newspaper article text, Word Documents</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>20050101</begdate>
+              <enddate>20211231</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>LexisNexis - 631 articles</srccitea>
+        <srccontr>Provided articles for textual analysis</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The data was pulled from LexisNexis using the following search criteria: Rio Grande River and Pecos River and Colorado River and Gunnison River and San Juan River and Sevier River and Green River and Animas River and La Plata River and Great Salt Lake OR water OR river! OR dam OR stream OR tributary OR irrigation OR channel OR reservoir AND quality OR flood! OR drought! OR rights AND treaty or agree or negotiate or partner or settle or cooperate or collaborate or dispute or conflict or disagree or war or protest.</procdesc>
+        <procdate>20221122</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Uncoded_Events.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data. The events in this CSV file were not reviewed and coded by the researchers but are provided as a complete picture to interested parties of the events in the geographic area that met our keyword search. The process described (reading the newspaper article text, capturing geographic location details, stakeholders involved, evaluating for crises and conflicts and rating the intensity of the event) could be carried out by others to complete the dataset.</enttypd>   
+        <enttypds>U.S. Geological Survey</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Event</attrlabl>
+        <attrdef>Unique ID number for each event</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <udom>Unique ID number for each event</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>Search Source</attrlabl>
+  <attrdef>The original text file that holds the full article text </attrdef>
+  <attrdefs>Dataset designer</attrdefs>
+  <attrdomv>
+    <edom>
+      <edomv>USGS1-50.docx</edomv>
+      <edomvd>File titled "USGS1-50"</edomvd>
+      <edomvds>Dataset designer</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>USGS101-150.docx</edomv>
+      <edomvd>File titled "USGS101-150"</edomvd>
+      <edomvds>Dataset designer</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>USGS151-200.docx</edomv>
+      <edomvd>File titled "USGS151-200"</edomvd>
+      <edomvds>Dataset designer</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>USGS201-250.docx</edomv>
+      <edomvd>File titled "USGS201-250"</edomvd>
+      <edomvds>Dataset designer</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>USGS251-300.docx</edomv>
+      <edomvd>File titled "USGS251-300"</edomvd>
+      <edomvds>Dataset designer</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>USGS301-350.docx</edomv>
+      <edomvd>File titled "USGS301-350"</edomvd>
+      <edomvds>Dataset designer</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>USGS351-400.docx</edomv>
+      <edomvd>File titled "USGS351-400"</edomvd>
+      <edomvds>Dataset designer</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>USGS401-450.docx</edomv>
+      <edomvd>File titled "USGS401-450"</edomvd>
+      <edomvds>Dataset designer</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>USGS451-500.docx</edomv>
+      <edomvd>File titled "USGS451-500"</edomvd>
+      <edomvds>Dataset designer</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>USGS501-550.docx</edomv>
+      <edomvd>File titled "USGS501-550"</edomvd>
+      <edomvds>Dataset designer</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>USGS51-100.docx</edomv>
+      <edomvd>File titled "USGS51-100"</edomvd>
+      <edomvds>Dataset designer</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>USGS551-600.docx</edomv>
+      <edomvd>File titled "USGS551-600"</edomvd>
+      <edomvds>Dataset designer</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>USGS601-631.docx</edomv>
+      <edomvd>File titled "USGS601-631"</edomvd>
+      <edomvds>Dataset designer</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Newspaper</attrlabl>
+        <attrdef>Name of the newspaper where the article was published</attrdef>
+        <attrdefs>Lexis Nexis</attrdefs>
+        <attrdomv>
+          <udom>Names of the newspapers</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Title</attrlabl>
+        <attrdef>The title of the article</attrdef>
+        <attrdefs>Lexis Nexis</attrdefs>
+        <attrdomv>
+          <udom>The title of the article</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Duplicate</attrlabl>
+        <attrdef>Whether or not this same article appears again in this dataset. The researchers left these included because they are syndications of the same content in several different newspapers and their appearance more than once captures significance of stories appearing in several locations throughout the geographic area.</attrdef>
+        <attrdefs>Lexis Nexis</attrdefs>
+        <attrdomv>
+          <udom>True or False</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Report Date</attrlabl>
+        <attrdef>Date the newspaper article was published</attrdef>
+        <attrdefs>Lexis Nexis</attrdefs>
+        <attrdomv>
+          <udom>Specific date or month the article was published</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Report Year</attrlabl>
+        <attrdef>Year the newspaper article was published</attrdef>
+        <attrdefs>Lexis Nexis</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2005</rdommin>
+            <rdommax>2022</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "water quality"</attrlabl>
+        <attrdef>Number of times "water quality" was mentioned in the article, as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>10</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "invasive species"</attrlabl>
+        <attrdef>Number of times "invasive species" was mentioned in the article, as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "conservation"</attrlabl>
+        <attrdef>Number of times "conservation" was mentioned in the article, as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>47</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "drought"</attrlabl>
+        <attrdef>Number of times "drought" was mentioned in the article, as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>26</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "flood"</attrlabl>
+        <attrdef>Number of times "flood" was mentioned in the article, as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>31</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "ground water depletion"</attrlabl>
+        <attrdef>Number of times "ground water depletion" was mentioned in the article, as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "depletion"</attrlabl>
+        <attrdef>Number of times "depletion" was mentioned in the article, as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>3</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "infrastructure"</attrlabl>
+        <attrdef>Number of times "infrastructure" was mentioned in the article, as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>9</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "fish passage"</attrlabl>
+        <attrdef>Number of times "fish passage" was mentioned in the article, as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "instream water rights", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "instream water rights" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "water rights", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "water rights" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>18</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "intergovernmental", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "intergovernmental" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "water transfers", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "water transfers" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>6</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "navigation", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "navigation" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "fish", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "fish" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>27</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "invasive", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "invasive" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "diversion", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "diversion" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>7</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "water diversion", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "water diversion" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "instream", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "instream" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>12</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Article Text Search "aquatic", as discovered by an R (statistical programming language) command str_detect(). This is one of the issue types described in Eidem 2008.</attrlabl>
+        <attrdef>Number of times "aquatic" was mentioned in the article</attrdef>
+        <attrdefs>Dataset designer</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>10</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>GS ScienceBase</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty. The use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey.
+</distliab>
+    <stdorder>
+      <digform><digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt><onlinopt><computer><networka><networkr>https://doi.org/10.5066/P9X6WR7J</networkr></networka></computer></onlinopt></digtopt></digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20230223</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jennifer Rapp</cntper>
+        </cntperp>
+        <cntaddr>
+          <addrtype>email</addrtype>
+          <address>jrapp@usgs.gov</address>
+          <city>Richmond</city>
+          <state>VA</state>
+          <postal>23228</postal>
+        </cntaddr>
+        <cntvoice>804-261-2635</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
