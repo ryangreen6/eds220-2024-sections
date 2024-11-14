@@ -1,0 +1,290 @@
+Dataset title:  Snowshoe hare physical data in Bonanza Creek Experimental Forest: 1999-Present
+
+Dataset ID:  doi:10.6073/pasta/03dce4856d79b91557d8e6ce2cbcdc14
+Dataset Creator
+
+	Name:		Knut Kielland
+	Position:	Senior Investigator
+	
+	Address:
+			Institute of Arctic Biology  University of Alaska Fairbanks P.O. Box 757000
+			Fairbanks, AK  99775  United States
+	
+	Phone:		(907) 474-7164
+	Fax:		(907) 474-6967
+	Email:		kkielland@alaska.edu
+	URL:		http://people.iab.uaf.edu/knut_kielland
+
+	Name:		F. Chapin
+	Position:	Primary Investigator
+	
+	Address:
+			Department of Biology and Wildlife;  Institute of Arctic Biology:  University of Alaska Fairbanks 193 Arctic Health P.O. Box 757000
+			Fairbanks, AK  99775  United States
+	
+	Phone:		(907) 455-6408
+	Fax:		(907) 474-6967
+	Email:		terry.chapin@alaska.edu
+	URL:		http://terrychapin.org/
+
+	Name:		Roger Ruess
+	Position:	Primary Investigator
+	
+	Address:
+			Institute of Arctic Biology  University of Alaska Fairbanks P.O. Box 757000
+			Fairbanks, AK  99775-0180  United States
+	
+	Phone:		(907) 474-7153
+	Fax:		(907) 474-6967
+	Email:		rwruess@alaska.edu
+	URL:		http://people.iab.uaf.edu/roger_ruess
+
+	Organization:	Bonanza Creek LTER
+	
+	Address:
+			Boreal Ecology Cooperative Research Unit 
+			University of Alaska Fairbanks
+			P.O. Box 756780 
+			Fairbanks, AK 99775  USA
+	
+	Phone:		907-474-6364
+	Fax:		907-474-6251
+	Email:		uaf-bnz-im-team@alaska.edu
+	URL:		http://www.lter.uaf.edu
+
+
+Metadata Provider
+
+	Position:	Data Manager
+	Organization:	Bonanza Creek LTER
+	
+	Address:
+			Boreal Ecology Cooperative Research Unit 
+			University of Alaska Fairbanks
+			P.O. Box 756780 
+			Fairbanks, AK 99775  USA
+	
+	Phone:		907-474-6364
+	Fax:		907-474-6251
+	Email:		uaf-bnz-im-team@alaska.edu
+	URL:		http://www.lter.uaf.edu
+
+
+Dataset Abstract
+
+	Snowshoe hares, Lepus americanus, are a 'keystone' prey species in northern boreal forests and experience population fluctuations of 8-11-years. Despite intense responses of both vegetation and predators to changes in hare densities, landscape-scale comparisons of hare populations in Alaska have been limited to qualitative descriptions. We conducted capture-recapture studies of snowshoe hares at 5 locales in the Tanana valley, from Tok in the east to Clear in the west from 1999 to 2002. Snowshoe hare densities were highest in 1999 ( =6.36 ha-1, SE=0.63) and declined thereafter. We were unable to detect declines in apparent survival during declining densities in our study populations. Movement distances did not vary temporally and persistence of individuals through declining densities may be associated positively with body condition at the peak. The relationship of hare pellets and hare densities was weak and limits the utility of this methodology for estimating hare densities in Interior Alaska.
+
+
+Dataset Keywords
+
+	snowshoe hares
+	Interior Alaska
+	small mammals
+	mark
+	recapture
+	pellets
+	density
+	populations
+	Bonanza Creek Experimental Forest
+	clear
+	Delta
+	Tok
+	trap
+	morphometry
+
+
+Intellectual Rights
+
+
+
+Distribution
+
+	Online distribution:  http://www.lter.uaf.edu/data/data-detail/id/55
+
+
+Geographic Coverage
+
+
+	Bounding Coordinates
+
+		Geographic description:	Dataset geographic description information is unavailable. {datafile/geoCoverage is empty}
+		West bounding coordinate:	-148.1734
+		East bounding coordinate:	-148.17303
+		North bounding coordinate:	64.41417
+		South bounding coordinate:	64.41366
+	
+
+
+
+Temporal Coverage
+
+	Start Date:  1999-06-01
+	End Date:  2012-09-14
+
+
+Dataset Contact
+
+
+
+Methods
+
+	Sampling Description 
+
+
+
+	Method Step 
+
+		Description 
+
+
+
+Data Table
+
+	Entity Name:  55_Hare_Data_2012.txt
+	Entity Description:  Data from capture-recapture studies of snowshoe hares.
+	Object Name:  55_Hare_Data_2012.txt
+
+
+
+Data Format
+
+	Number of Header Lines:  1
+	Attribute Orientation:  column
+	Field Delimiter:  ,
+
+
+
+Attributes
+
+	Attribute Name:  date
+	Attribute Label:  date
+	Attribute Definition:  Date
+	Storage Type:  string
+	Measurement Scale: 
+		Date
+	Missing Value Code: 
+
+
+	Attribute Name:  time
+	Attribute Label:  time
+	Attribute Definition:  Time
+	Storage Type:  string
+	Measurement Scale: 
+		Time
+	Missing Value Code: 
+
+
+	Attribute Name:  grid
+	Attribute Label:  grid
+	Attribute Definition:  name of trapping grid
+	Storage Type:  string
+	Measurement Scale: 
+		name of trapping grid
+	Missing Value Code: 
+
+
+	Attribute Name:  trap
+	Attribute Label:  trap
+	Attribute Definition:  trap ID
+	Storage Type:  string
+	Measurement Scale: 
+		trap ID
+	Missing Value Code: 
+
+
+	Attribute Name:  l_ear
+	Attribute Label:  l_ear
+	Attribute Definition:  left ear tag
+	Storage Type:  string
+	Measurement Scale: 
+		left ear tag
+	Missing Value Code: 
+
+
+	Attribute Name:  r_ear
+	Attribute Label:  r_ear
+	Attribute Definition:  right ear tag
+	Storage Type:  string
+	Measurement Scale: 
+		right ear tag
+	Missing Value Code: 
+
+
+	Attribute Name:  sex
+	Attribute Label:  sex
+	Attribute Definition:  sex of hare captured
+	Storage Type:  string
+	Measurement Scale: 
+		m= male
+		 f= female
+		 m?= male not confirmed
+	Missing Value Code: 
+
+
+	Attribute Name:  age
+	Attribute Label:  age
+	Attribute Definition:  age of capture
+	Storage Type:  string
+	Measurement Scale: 
+		a= adult
+		 j= juvinile
+		 mort= mortality
+	Missing Value Code: 
+
+
+	Attribute Name:  weight
+	Attribute Label:  weight
+	Attribute Definition:  weight of hare
+	Storage Type:  integer
+	Measurement Scale: 
+		Units:  gram
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  hindft
+	Attribute Label:  hindft
+	Attribute Definition:  hind foot
+	Storage Type:  integer
+	Measurement Scale: 
+		Units:  dimensionless
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  notes
+	Attribute Label:  notes
+	Attribute Definition:  notes on capture
+	Storage Type:  string
+	Measurement Scale: 
+		notes on capture
+	Missing Value Code: 
+
+
+	Attribute Name:  b_key
+	Attribute Label:  b_key
+	Attribute Definition:  unique animal identifier
+	Storage Type:  integer
+	Measurement Scale: 
+		unique animal identifier
+	Missing Value Code: 
+
+
+	Attribute Name:  session_id
+	Attribute Label:  session_id
+	Attribute Definition:  unique session idenifier (A session is defined as multiple consecutive trap nights at a given site.)
+	Storage Type:  integer
+	Measurement Scale: 
+		unique session idenifier (A session is defined as multiple consecutive trap nights at a given site.)
+	Missing Value Code: 
+
+
+	Attribute Name:  study
+	Attribute Label:  study
+	Attribute Definition:  The study type of this particular trapping session.
+	Storage Type:  string
+	Measurement Scale: 
+		The study type of this particular trapping session.
+	Missing Value Code: 
+
+

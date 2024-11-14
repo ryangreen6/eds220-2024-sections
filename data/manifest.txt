@@ -1,0 +1,5 @@
+Manifest file for knb-lter-bnz.55.22.zip created on Thu Oct 17 20:17:54 UTC 2024
+55_Hare_Data_2012.txt (211527 bytes)
+knb-lter-bnz.55.22.xml (31991 bytes)
+knb-lter-bnz.55.22.txt (6886 bytes)
+knb-lter-bnz.55.22.report.xml (26594 bytes)
